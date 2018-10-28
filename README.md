@@ -2,7 +2,6 @@
 python implementation text-to-morse encoder or morse-to-text decoder using International Morse Code Standards
 
 ## Installing
----
 1. Download the source code
    ```
    $ git clone https://github.com/wowotek/dotdashdash
@@ -13,7 +12,6 @@ python implementation text-to-morse encoder or morse-to-text decoder using Inter
    ```
 
 ## Documentation
----
 dotdashdash module provide easy encoding and decoding a plaintext and/or morse code to vice versa
 
 dotdashdash module defines the following function :
@@ -28,7 +26,6 @@ dotdashdash module defines the following function :
    - Decode _`morse`_ to Plain text
 
 ## Usage
----
 1. Import _`dotdashdash`_ library
    ```
    import dotdashdash as ddd
